@@ -1,0 +1,16 @@
+.product-card span{
+    font-size: 16px !important;
+}
+.product-card  img {
+    width: 120px !important;
+}
+.product-card .btn {
+    background-color: #FFC042;
+    color: #fff !important;
+}
+.product-card .btn:hover{
+    background-color: #7D06D7;
+}
+.product-title:hover {
+    color: #FFC042;
+}

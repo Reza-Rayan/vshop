@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'vazir';
+    src: url('./fonts/Vazir.woff2');
+}
+*{
+    font-family: 'vazir' !important;
+}
+/* body{
+    background-color: #212121 !important;
+    color: #e5e5e5 !important;
+  } */
+p{font-size: 14px !important;}
+h1{font-size: 30px !important;}
+h2{font-size: 26px !important;}
+h3{font-size: 22px !important;}
+h4{font-size: 18px !important;}
+h1,h2,h3,h4,h5,h6{font-weight: 700 !important;}
+
+
+a{
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+::selection{
+    background-color: #FFC042;
+    color: #fff;
+}

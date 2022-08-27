@@ -1,0 +1,12 @@
+header {
+  background-color: #7d06d7 !important;
+  box-shadow: 0 4px 8px #21212160;
+  z-index: 30;
+}
+.logo {
+  font-size: 20px !important;
+  box-sizing: border-box !important;
+  font-family: cursive !important;
+  list-style: none !important;
+  font-weight: 600;
+}
