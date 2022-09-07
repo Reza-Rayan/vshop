@@ -6,7 +6,7 @@ import Routers from "./Routers";
 
 const App = () => {
   return (
-    <div className="App ">
+    <div >
       <Header />
 
       <main className="py-4 px-3">

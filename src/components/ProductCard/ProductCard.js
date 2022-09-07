@@ -15,8 +15,7 @@ const ProductCard = ({ product }) => {
                 <Link to={`/product/${product._id}`}>
                     <Card.Title className="text-center  product-title" as="h4">{product.name}</Card.Title>
                 </Link>
-                <Card.Text as="span" className="my-2">{product.price} تومان</Card.Text>
-                <Card.Text>{product.description}</Card.Text>
+                <Card.Text as="div" className="my-2">{product.price} تومان</Card.Text>
                 <Link className='btn' to='/' >افزودن به سبد خرید</Link>
             </Card.Body>
         </Card>

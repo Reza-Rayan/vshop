@@ -8,6 +8,8 @@ body {
 }
 body{
   min-height: 80vh;
+  background: #212121 !important;
+  color: #ffff !important;
 }
 a {
   text-decoration: none !important;
